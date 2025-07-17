@@ -12,7 +12,7 @@ int main()
     const char* name = "Roshan"; // Your name or any text
     
     // Rectangle movement speed
-    Vector2 speed = { 5, 4 };
+    Vector2 speed = { 4, 4 };
 
     InitWindow(screenWidth, screenHeight, "Rectangle with Name");
     SetTargetFPS(60);
